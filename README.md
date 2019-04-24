@@ -1,4 +1,4 @@
-# uc
+#Portfolio Website with integrated Content Management System
 
 ## Project setup
 ```
